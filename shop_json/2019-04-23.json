@@ -1,0 +1,130 @@
+[
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/34DE4820_large.png",
+    "manifestId": 4820,
+    "name": "Tricera Ops",
+    "rarity": "Fine",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 2000
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/7C161181_large.png",
+    "manifestId": 1181,
+    "name": "Rex",
+    "rarity": "Fine",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 2000
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/A0C15639_large.png",
+    "manifestId": 5639,
+    "name": "Beef Boss",
+    "rarity": "Quality",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 1500
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/36934821_large.png",
+    "manifestId": 4821,
+    "name": "Bitemark",
+    "rarity": "Quality",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 1200
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/51D45344_large.png",
+    "manifestId": 5344,
+    "name": "Pterodactyl",
+    "rarity": "Quality",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 1200
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/D8355637_large.png",
+    "manifestId": 5637,
+    "name": "Patty Whacker",
+    "rarity": "Handmade",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 500
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/D2C54837_large.png",
+    "manifestId": 4837,
+    "name": "Axeroni",
+    "rarity": "Sturdy",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/20BA4836_large.png",
+    "manifestId": 4836,
+    "name": "Tomatohead",
+    "rarity": "Quality",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 1500
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/E2AA5638_large.png",
+    "manifestId": 5638,
+    "name": "Flying Saucer",
+    "rarity": "Quality",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 1200
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/00346911_large.png",
+    "manifestId": 6911,
+    "name": "Extra Cheese",
+    "rarity": "Quality",
+    "storeCategory": "BRWeeklyStorefront",
+    "vBucks": 1200
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/F7FB11525_large.png",
+    "manifestId": 11525,
+    "name": "Dino",
+    "rarity": "Handmade",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 300
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/C3CA11526_large.png",
+    "manifestId": 11526,
+    "name": "Triassic",
+    "rarity": "Handmade",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 300
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/73C95527_large.png",
+    "manifestId": 5527,
+    "name": "Dynamo",
+    "rarity": "Sturdy",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 1200
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/F93A10818_large.png",
+    "manifestId": 10818,
+    "name": "Overdrive",
+    "rarity": "Sturdy",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 500
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/FB6D1155_large.png",
+    "manifestId": 1155,
+    "name": "Scarlet Defender",
+    "rarity": "Handmade",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 800
+  },
+  {
+    "imageUrl": "https://cdn.thetrackernetwork.com/cdn/fortnite/5A536482_large.png",
+    "manifestId": 6482,
+    "name": "Llamacadabra",
+    "rarity": "Quality",
+    "storeCategory": "BRDailyStorefront",
+    "vBucks": 800
+  }
+]
